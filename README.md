@@ -1,3 +1,3 @@
-# Headline
+# Headliness
 
 > An awesome project.
